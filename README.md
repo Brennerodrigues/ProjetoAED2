@@ -2,8 +2,8 @@
 ### Tema: Sistema de navegação primitivo
 
 O produto final é um sistema com em interface visual, que, dados dois pontos s e t, encontra um caminho mais curto de s para t, conforme o algoritmo de Dijkstra. O código pode ser escrito em linguagens como Java, JavaScript, Python, C etc.
-Seguem adiante os requisitos funcionais e não funcionais do Sistema de Navegação Primitivo, com a respectiva pontuação.
 
+### Integrantes do grupo
 |Matrícula|Nome|Usuário Git|
 |---|---|---|
 |202400418|BRENNER RODRIGUES SARDINHA|[brennerodrigues](https://github.com/brennerodrigues)|
