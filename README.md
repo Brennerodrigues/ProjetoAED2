@@ -1,5 +1,4 @@
-# ProjetoAED2
-INF/UFG 2025-1 — AED2 — Prof. André L. Moura — Projeto Final
+# INF/UFG 2025-1 — AED2 — Prof. André L. Moura — Projeto Final
 Tema: Sistema de navegação primitivo
 Valor: (10,0 pontos)
 O produto final é um sistema com em interface visual, que, dados dois pontos s e t, encontra um caminho mais curto de s para t, conforme o algoritmo de Dijkstra. O código pode ser escrito em linguagens como Java, JavaScript, Python, C etc.
