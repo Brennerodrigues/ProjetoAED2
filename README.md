@@ -3,6 +3,13 @@ Tema: Sistema de navegação primitivo
 Valor: (10,0 pontos)
 O produto final é um sistema com em interface visual, que, dados dois pontos s e t, encontra um caminho mais curto de s para t, conforme o algoritmo de Dijkstra. O código pode ser escrito em linguagens como Java, JavaScript, Python, C etc.
 Seguem adiante os requisitos funcionais e não funcionais do Sistema de Navegação Primitivo, com a respectiva pontuação.
+
+|Matrícula|Nome|Usuário Git|
+|---|---|---|
+|202400418|BRENNER RODRIGUES SARDINHA|[brennerodrigues](https://github.com/brennerodrigues)|
+|202403074|HEITOR BARBOSA SOUZA|[heitor-barbosa](https://github.com/heitor-barbosa)|
+|202004771|LUIZ AUGUSTO GODINHO DE PINA VAZ MONTEIRO|[luizaugusto01](https://github.com/luizaugusto01)|
+
 1. Requisitos Funcionais (RF)
 Descrição
 Pontuação
