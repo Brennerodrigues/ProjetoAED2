@@ -7,6 +7,7 @@ O produto final é um sistema com em interface visual, que, dados dois pontos s 
 |Matrícula|Nome|Usuário Git|
 |---|---|---|
 |202400418|BRENNER RODRIGUES SARDINHA|[brennerodrigues](https://github.com/brennerodrigues)|
+|*********|********************|[**************](https://github.com/heitor-barbosa)|
 |202403074|HEITOR BARBOSA SOUZA|[heitor-barbosa](https://github.com/heitor-barbosa)|
 |202004771|LUIZ AUGUSTO GODINHO DE PINA VAZ MONTEIRO|[luizaugusto01](https://github.com/luizaugusto01)|
 
